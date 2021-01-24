@@ -1,7 +1,7 @@
 # 104intersection
 
 ## Description
-Maths 104intersection Epitech Teck1
+Maths | 104intersection Epitech Teck1
 
 To create synthesis images (when doing ray tracing, for example), potential intersection points between
 light rays and scene objects (here cylinders, spheres and cones) must be computed. This is exactly what
